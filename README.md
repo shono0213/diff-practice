@@ -1,4 +1,4 @@
 # diff-practice
 for practicing diff
 updated on rebase-practice
-conflict on main
+conflict on rebase-practice
